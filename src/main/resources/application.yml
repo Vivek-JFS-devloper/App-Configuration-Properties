@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: 10_App_Config_Properties
+app:
+  message:
+    greetMsg: Good Morning
+    welcomeMsg: Welcomt to My Site
